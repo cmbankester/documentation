@@ -73,12 +73,12 @@ To log out, navigate to the **Settings** page on the mobile app and click on **L
 {{< tabs >}}
 {{% tab "iOS" %}}
 
-{{< img src="service_management/mobile/on_call_may_2025.png" style="width:100%; background:none; border:none; box-shadow:none;" alt="monitor page">}}
+{{< img src="service_management/mobile/on_call_may_2025.png" style="width:100%; background:none; border:none; box-shadow:none;" alt="on-call page">}}
 
 {{% /tab %}}
 {{% tab "Android" %}}
 
-{{< img src="service_management/mobile/Android_On_Call.png" style="width:100%; background:none; border:none; box-shadow:none;" alt="monitor page">}}
+{{< img src="service_management/mobile/Android_On_Call.png" style="width:100%; background:none; border:none; box-shadow:none;" alt="on-call page">}}
 
 {{% /tab %}}
 {{< /tabs >}}
